@@ -165,7 +165,7 @@ _Recommended Readings_
   
 Housing Link. "Housing Terms." ([PDF](https://www.housinglink.org/Files/Housing%20Terms.pdf))  
   
-Housing Link. "Abbreviations commonly used in housing." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.housinglink.org/Files/Abbreviations%20Used%20In%20Housing.pdf))
+Housing Link. "Abbreviations commonly used in housing." ([PDF](http://www.housinglink.org/Files/Abbreviations%20Used%20In%20Housing.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +325,7 @@ PBS. "[The Dammed: Resources](http://www.pbs.org/wnet/wideangle/episodes/the-dam
   
 [Report of the Indian People's Tribunal on Environment and Human Rights.](http://worldcat.org/identities/lccn-no00050844/)   
   
-National Water Policy, 2002, Government of India. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://jalshakti-dowr.gov.in/sites/default/files/nwp20025617515534_1.pdf))  
+National Water Policy, 2002, Government of India. ([PDF](https://jalshakti-dowr.gov.in/sites/default/files/nwp20025617515534_1.pdf))  
   
 [Response to the WCD Report](http://www.unep.org/dams/documents/default.asp?documentid=524) (see especially the World Bank's and ICOLD member's)  
   
