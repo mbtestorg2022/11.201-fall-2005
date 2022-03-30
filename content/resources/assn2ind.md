@@ -4,6 +4,7 @@ description: 'This resource contains student assignment on the topic - Case 1: P
   Housing Redevelopment: Race, Physical Design, and Expertise in Planning.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-201-gateway-planning-action-fall-2005/989c42b37e8feddcaef1494d8058dcb1_assn2ind.pdf
 file_type: application/pdf
+parent_uid: 87fcc105-1323-2c35-a932-6201be5698c2
 resourcetype: Document
 title: assn2ind.pdf
 uid: 989c42b3-7e8f-eddc-aef1-494d8058dcb1
